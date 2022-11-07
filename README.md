@@ -1,5 +1,10 @@
 # QA-Windows-Forms-Application-
 Multiform Windows Forms Application 
+
+
+![图片](https://user-images.githubusercontent.com/87504121/200241344-b5e7e3cc-04e1-415c-b953-0052616cfa72.png)
+
+
 Design a multiform Windows Forms Application that can be used to test C# skills. The first
 form will prompt the user to enter a password and his/her personal information (e.g., a name and
 ID). Make up the password “4seneca” and set a limit of up to 3 attempts to access and start the
